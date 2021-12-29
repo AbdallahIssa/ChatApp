@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="type_a_message">أكتب رسالة ...</string>
+    <string name="create_a_new_account">أنشئ حسابا جديدا</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="username">أسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="register">تسجيل حساب</string>
+    <string name="Login">تسجيل الدخول</string>
+    <string name="app_name">لكِ</string>
+</resources>
